@@ -1,0 +1,17 @@
+===============================================
+=============== Nota Pembayaran ===============
+===============================================
+             Nama Menu yang Dibeli             
+1. Nachos  30000
+===============================================
+Total harga                     :  Rp30000
+Uang bayar                      :  Rp40000
+Uang kembali                    :  Rp10000
+
+
+Nama pelanggan    : Dinda
+Tanggal transaksi    : 2022-06-25
+Jam transaksi        : 09:33:00
+===============================================
+Nama kasir           : Dirgantara
+================ Terima kasih =================
